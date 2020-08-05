@@ -1,0 +1,1 @@
+$('#btn').click(() => alert('works'))
